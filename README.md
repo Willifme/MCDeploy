@@ -4,7 +4,7 @@ A basic Mincraft/Bukkit (More coming soon) plugin installer (soon proper package
 
 ## Installation
 
-This tool requires Go to be installed. Not prebuilt binary is yet available.
+This tool requires Go to be installed it requires dependencies of [cli.go]("https://github.com/codegangsta/cli") and a working internet connection. Not prebuilt binary is yet available.
 
 To install:
 
