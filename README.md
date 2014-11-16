@@ -1,4 +1,6 @@
-MCDeploy
+##MCDeploy
+
+Note: Put on hold due to the future of Bukkit
 
 A basic Mincraft/Bukkit (More coming soon) plugin installer (soon proper package manager) and server setup tool. Also a project for learning Go.
 
